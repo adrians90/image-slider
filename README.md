@@ -4,3 +4,5 @@ In this exercise I built an image slider. The user can click on the next and pre
 
 Built using JavaScript, HTML and CSS
 Live link:
+
+https://adrians90.github.io/image-slider/
